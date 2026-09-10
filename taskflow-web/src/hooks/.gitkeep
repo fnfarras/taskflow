@@ -1,0 +1,8 @@
+/**
+ * src/hooks/ — Custom React hooks global
+ *
+ * Hooks yang akan ditambahkan di iterasi berikutnya:
+ * - useProjects.js  — fetch & mutate projects via API
+ * - useTasks.js     — fetch & mutate tasks via API
+ * - useToast.js     — toast notification helper
+ */

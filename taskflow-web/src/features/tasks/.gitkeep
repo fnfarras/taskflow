@@ -1,0 +1,9 @@
+/**
+ * src/features/tasks/ — Task feature module
+ *
+ * Komponen yang akan ditambahkan:
+ * - TaskList.jsx    — list task dalam project
+ * - TaskCard.jsx    — card task individual
+ * - TaskForm.jsx    — form create/edit task
+ * - TaskDetail.jsx  — detail task modal
+ */

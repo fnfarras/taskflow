@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files — JANGAN COMMIT .ENV
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+dist-ssr/
+public/build/
+public/hot/
+
+# Database
+*.sqlite
+*.sqlite-journal
+
+# Logs & Cache
+*.log
+.phpunit.result.cache
+.phpunit.cache/
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
