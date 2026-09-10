@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://github.com/YOUR_USERNAME/taskflow/actions/workflows/tests.yml/badge.svg" alt="Tests">
+  <img src="https://github.com/fnfarras/taskflow/actions/workflows/tests.yml/badge.svg" alt="Tests">
 </p>
 
 <h1 align="center">TaskFlow</h1>
